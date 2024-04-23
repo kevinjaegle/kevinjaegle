@@ -1,7 +1,7 @@
 <h1>Hi, I'm Kevin! <br/><a href="https://github.com/kevinjaegle">DevOps Engineer</a>
 
 <h1>Certificates</h1>
-<a href=""C:\Users\kevin\Desktop\thumbnail_aws-certified-cloud-practitioner (1) (1).png"">AWS Cloud Practitioner</a>
+<a href="C:\Users\kevin\Desktop\thumbnail_aws-certified-cloud-practitioner (1) (1).png">AWS Cloud Practitioner</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
