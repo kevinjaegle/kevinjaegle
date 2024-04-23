@@ -2,6 +2,7 @@
 
 <h1>Certificates</h1>
 <a href="C:\Users\kevin\Desktop\thumbnail_aws-certified-cloud-practitioner (1) (1).png">AWS Cloud Practitioner</a>
+![thumbnail_aws-certified-cloud-practitioner (1) (1)](https://github.com/kevinjaegle/kevinjaegle/assets/95292087/cc355990-0ecb-43b6-82ea-c20cc6c880a1)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...![thumbnail_aws-certified-cloud-practitioner (1) (1)](https://github.com/kevinjaegle/kevinjaegle/assets/95292087/64a5f2aa-f4e3-44ed-8e70-1645fea7bdf7)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
